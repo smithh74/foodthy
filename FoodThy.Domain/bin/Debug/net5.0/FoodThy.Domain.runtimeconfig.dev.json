@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ahiguita\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ahiguita\\.nuget\\packages"
+    ]
+  }
+}
